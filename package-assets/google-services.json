@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288669334954",
+    "firebase_url": "https://di-souto.firebaseio.com",
+    "project_id": "di-souto",
+    "storage_bucket": "di-souto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288669334954:android:00cb971f2c903ffe9a7fd3",
+        "android_client_info": {
+          "package_name": "com.disouto.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288669334954-hg66938i0fr4o15trqu45uome08v6nq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xgnxgG0XIy2k-1akMJ8ElXCO7dY5I88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288669334954-hg66938i0fr4o15trqu45uome08v6nq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288669334954-35o6b6rquk4t02ergodc7dru9kpj87ot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.disouto.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
